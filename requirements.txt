@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This tool only uses Python's built-in 're' module.
